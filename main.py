@@ -11,7 +11,7 @@ import os
 # --- Cấu hình ---
 input_csv_file = 'urls.csv'
 output_csv_file = 'url_final.csv'
-so_lan_nhap_xem_them_toi_da = 10
+so_lan_nhap_xem_them_toi_da = 0
 base_url = "https://tiki.vn"
 
 xem_them_button_selector = "div[data-view-id='category_infinity_view.more']"
